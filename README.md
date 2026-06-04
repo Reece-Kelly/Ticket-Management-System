@@ -29,12 +29,12 @@ The Power Automate flows for the app:
 ## Screenshots
 
 All Tickets View
-![All Tickets Screen](all_tickets.png)
+![All Tickets Screen](images/all_tickets.png)
 
 Creating a New Ticket
-![New Ticket Blank](new_ticket.png)
+![New Ticket Blank](images/new_ticket.png)
 
-![New Ticket Filled Out](new_ticket_filled_out.png)
+![New Ticket Filled Out](images/new_ticket_filled_out.png)
 
 ## Tech Stack
 
