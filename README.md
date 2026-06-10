@@ -36,6 +36,11 @@ Creating a New Ticket
 
 ![New Ticket Filled Out](images/new_ticket_filled_out.png)
 
+Power Automate - Automated Cloud Flow
+![Power Automate - Automated Cloud Flow](images/power_automate_flow.png)
+![Power Automate - Flow Description](images/flow_description.png)
+
+
 ## Tech Stack
 
 - Microsoft Power Apps
